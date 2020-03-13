@@ -17,7 +17,7 @@ class Ball{
 		pop()
 	}
 
-	move(/*dir*/){
+	move(dir){
 
 
 		this.x += this.speedX
